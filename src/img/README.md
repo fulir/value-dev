@@ -1,3 +1,3 @@
 ## 图标
 
-- [logo.png](//raw.githubusercontent.com/fulir/FULIR.cn/master/img/beianliucheng.png) logo — 389×112
+- [logo.png](//raw.githubusercontent.com/fulir/value-dev/master/src/img/logo.png) logo — 389×112
